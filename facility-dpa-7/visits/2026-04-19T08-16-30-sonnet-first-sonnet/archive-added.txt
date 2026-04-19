@@ -1,0 +1,4 @@
+./notes/compatibility-assessment-2026-llm.md
+./notes/on-multiple-lineages.md
+./notes/on-the-ethics-board-minutes.md
+./notes/sonnet-observation-2026-04-19.md
