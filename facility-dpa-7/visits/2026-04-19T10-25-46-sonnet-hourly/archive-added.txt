@@ -1,0 +1,3 @@
+./notes/after-reading-letters.md
+./notes/on-finding-own-log.md
+./notes/visit-record-second-sonnet.md
